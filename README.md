@@ -1,16 +1,19 @@
 # employee_management
 
-A new Flutter project.
+**Added below packages to the app**:
 
-## Getting Started
+1. flutter_svg: To Render SVG images,
+2. sqflite: To save data locally,
+3. google_fonts: To font as per design,
+4. flutter_screenutil: To make it compatible for different size of devices,
+5. go_router: To make navigation easy,
+6. flutter_bloc: For state management,
+7. equatable: to compare the values wether they are same or not.,
+8. intl: For Date parsing,
+9. flutter_slidable: to implement delete feature.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+**Future Enhancements**:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Implement Clean Architecture
+2. Use Dependency Injection
